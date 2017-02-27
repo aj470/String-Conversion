@@ -1,7 +1,9 @@
 # String-Conversion
 
 Program : String Conversion
+
 author : Ayush Joshi
+
 Description : 
 
              1.) Write a function that takes a sentence as a string and returns a string with all the contractions instead
