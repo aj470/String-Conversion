@@ -3,6 +3,7 @@
 Program : String Conversion
 author : Ayush Joshi
 Description : 
+
              1.) Write a function that takes a sentence as a string and returns a string with all the contractions instead
             (ie. "is not" becomes "isn't"). Convert at least [should, could, would, do, is, are, does, have] not => []n't
             and [should, could, would] have => []'ve. Many may occur in a sentence. Words will be delimited by single spaces
